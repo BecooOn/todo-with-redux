@@ -2,7 +2,7 @@
 
 ## Live link
 
-https://todo-with-redux.netlify.app/
+https://app-todo-with-redux.netlify.app/
 
 ## Description
 
@@ -57,4 +57,4 @@ Build a To-Do App using react-redux.
 - CSS
 
 ## Demo
-<a href="https://todo-with-redux.netlify.app/" target="_blank">Movie App</a>
+<a href="https://app-todo-with-redux.netlify.app/" target="_blank">Movie App</a>
